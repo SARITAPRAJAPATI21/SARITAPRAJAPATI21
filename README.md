@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Sarita_Prajapati</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="rigth" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aZkAknA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/My-OctocatsShortest.gif">
+<img align="rigth" alt="coding" width="100" height="150px src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aZkAknA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/My-OctocatsShortest.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saritaprajapati21&label=Profile%20views&color=0e75b6&style=flat" alt="saritaprajapati21" width="100px" height="150px"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saritaprajapati21&label=Profile%20views&color=0e75b6&style=flat" alt="saritaprajapati21"  /> </p>
 
 - 🌱 I’m currently learning **Machine learning ,Reactjs**
 
